@@ -19,8 +19,8 @@ Welcome to the ChatGPT React Native App! This mobile application allows users to
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/chatgpt-react-native.git
-   cd chatgpt-react-native
+   git clone https://github.com/SarangaChamod/ChatGPT--Original_Copy.git
+   cd ChatGPT--Original_Copy
    ```
 
 2. Create a `.env` file in the root directory:
