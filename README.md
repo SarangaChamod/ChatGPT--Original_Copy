@@ -1,4 +1,3 @@
-Certainly! Here is a sample README file for your ChatGPT app using React Native and the OpenAI API:
 
 ---
 
@@ -47,7 +46,7 @@ Welcome to the ChatGPT React Native App! This mobile application allows users to
 
 ## Configuration
 
-In the `MainScreen.js` file, ensure that the `localhot` variable matches the local IP address or hostname where your React Native development server is running. This information can be found in the output when you start the server with `npm start`.
+In the `MainScreen.js` file, ensure that the `localhost`  matches the local IP address or hostname where your React Native development server is running. This information can be found in the output when you start the server with `npm start`.
 
 ## Usage
 
