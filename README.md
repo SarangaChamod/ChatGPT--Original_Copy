@@ -18,7 +18,7 @@ Welcome to the ChatGPT React Native App! This mobile application allows users to
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/your-username/chatgpt-react-native.git
    cd chatgpt-react-native
    ```
@@ -33,13 +33,13 @@ Welcome to the ChatGPT React Native App! This mobile application allows users to
 
 3. Install dependencies:
 
-   ```bash
+   ```
    npm install
    ```
 
 4. Start the React Native development server:
 
-   ```bash
+   ```
    npm start
    ```
 
@@ -63,4 +63,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize the README further based on the specifics of your project. If you have additional features, dependencies, or setup steps, include them in the appropriate sections of the README.
